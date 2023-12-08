@@ -9,12 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/fiber": "^8.14.5",
     "@types/node": "20.6.1",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
+    "antd": "^5.9.1",
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.11.0",
+    "react-three-fiber": "^6.0.13",
+    "sass": "^1.67.0",
+    "three": "^0.157.0",
     "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "@types/three": "^0.157.0"
   }
 }

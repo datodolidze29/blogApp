@@ -1,0 +1,74 @@
+[
+    {
+      "title": "The Art of Storytelling",
+      "date": "16 September 2023",
+      "author": "John Smith",
+      "description": "Explore the power of storytelling and its impact on communication.",
+      "keywords": ["storytelling", "communication"],
+      "image_url": "/assets/blogImg.png"
+    },
+    {
+      "title": "Healthy Eating Habits",
+      "date": "14 September 2023",
+      "author": "Alice Johnson",
+      "description": "Learn how to develop and maintain healthy eating habits for a better life.",
+      "keywords": ["nutrition", "health"],
+      "image_url": "/assets/blogImg.png"
+    },
+    {
+      "title": "The Future of Artificial",
+      "date": "12 September 2023",
+      "author": "David Brown",
+      "description": "Discover the latest trends and breakthroughs in AI technology.",
+      "keywords": ["communication", "technology"],
+      "image_url": "/assets/blogImg.png"
+    },
+    {
+      "title": "Traveling on a Budget",
+      "date": "10 September 2023",
+      "author": "Emily Wilson",
+      "description": "Tips and tricks for enjoying fantastic vacations without breaking the bank.",
+      "keywords": ["travel", "budget"],
+      "image_url": "/assets/blogImg.png"
+    },
+    {
+      "title": "Effective Time Management",
+      "date": "8 September 2023",
+      "author": "Michael Davis",
+      "description": "Master the art of time management and boost your productivity.",
+      "keywords": ["communication", "productivity"],
+      "image_url": "/assets/blogImg.png"
+    },
+    {
+      "title": "Exploring Outer Space",
+      "date": "6 September 2023",
+      "author": "Sarah Martinez",
+      "description": "A journey through the mysteries of our universe and the wonders of space.",
+      "keywords": ["space", "exploration"],
+      "image_url": "/assets/blogImg.png"
+    },
+    {
+      "title": "The Art of Photography",
+      "date": "4 September 2023",
+      "author": "Daniel Turner",
+      "description": "Unlock the secrets of photography and capture stunning moments.",
+      "keywords": ["photography", "art"],
+      "image_url": "/assets/blogImg.png"
+    },
+    {
+      "title": "The Power of Positive Thinking",
+      "date": "2 September 2023",
+      "author": "Olivia White",
+      "description": "Harness the benefits of a positive mindset and transform your life.",
+      "keywords": ["communication", "mindset"],
+      "image_url": "/assets/blogImg.png"
+    },
+    {
+      "title": "Climate Change and",
+      "date": "1 September 2023",
+      "author": "James Anderson",
+      "description": "Addressing the pressing issues of climate change and the path to a sustainable future.",
+      "keywords": ["communication", "sustainability"],
+      "image_url": "/assets/blogImg.png"
+    }
+]
